@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../development/flutter/.pub-cache/hosted/pub.dartlang.org/map_launcher-2.0.0" />
+      <root url="file://$PROJECT_DIR$/../development/flutter/.pub-cache/hosted/pub.dartlang.org/location-4.2.2" />
+      <root url="file://$PROJECT_DIR$/../development/flutter/.pub-cache/hosted/pub.dartlang.org/location_web-3.1.0" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
